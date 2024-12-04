@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "462586528073",
+    "project_id": "plant-4fdac",
+    "storage_bucket": "plant-4fdac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462586528073:android:97793e831d73533bb6da98",
+        "android_client_info": {
+          "package_name": "com.example.plantdiseasedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462586528073-b5dh5mpcrqv5821451codfamgmk8hbo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantdiseasedetector",
+            "certificate_hash": "e57d2692e4db694e4a64bd8e44d71326b212c11e"
+          }
+        },
+        {
+          "client_id": "462586528073-4b10le3bg4ov9dtgnu9t7votdkeaaop5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mvivneciagGSIwyJE5QcKM-Y4fqsmI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462586528073-4b10le3bg4ov9dtgnu9t7votdkeaaop5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462586528073-4qc9kmp3pttrt8ll00ggt3evkiu06a57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantdiseasedetector"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
